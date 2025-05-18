@@ -8,6 +8,7 @@ public class HardcodedCardLoader implements CardLoader {
                 new Flashcard("What is 2 + 2?", "4"),
                 new Flashcard("What color is the sky on a clear day?", "Blue"),
                 new Flashcard("Who wrote 'Romeo and Juliet'?", "William Shakespeare")
+                new Flashcard("Where is NCF located? ", "Sarasota, Fl"),
         };
     }
 }
